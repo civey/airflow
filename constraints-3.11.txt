@@ -226,8 +226,8 @@ billiard==4.2.0
 bitarray==2.9.2
 black==24.3.0
 blinker==1.7.0
-boto3==1.33.13
-botocore==1.33.13
+boto3==1.33.12
+botocore==1.33.12
 cachelib==0.9.0
 cachetools==5.3.3
 cassandra-driver==3.29.1
@@ -250,7 +250,7 @@ clickclick==20.10.2
 cloudant==2.15.0
 cloudpickle==2.2.1
 cohere==4.57
-colorama==0.4.6
+colorama==0.4.4
 colorlog==4.8.0
 comm==0.2.2
 confluent-kafka==2.3.0
@@ -274,7 +274,7 @@ distro==1.9.0
 dnspython==2.6.1
 docker==7.0.0
 docopt==0.6.2
-docutils==0.20.1
+docutils==0.16
 duckdb==0.10.1
 editables==0.5
 elastic-transport==8.12.0
@@ -592,7 +592,7 @@ rich-argparse==1.4.0
 rich-click==1.7.4
 rich==13.7.1
 rpds-py==0.18.0
-rsa==4.9
+rsa==4.7.2
 ruff==0.2.1
 s3fs==2024.3.1
 s3transfer==0.8.2
