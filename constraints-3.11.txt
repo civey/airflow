@@ -461,7 +461,7 @@ nodeenv==1.8.0
 numpy==1.24.4
 oauthlib==3.2.2
 objsize==0.7.0
-openai==1.14.2
+openai==1.40.8
 openapi-schema-validator==0.6.2
 openapi-spec-validator==0.7.1
 openlineage-integration-common==1.10.2
